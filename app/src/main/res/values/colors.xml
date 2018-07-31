@@ -3,10 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-    <color name="colorBar">#ce6d695c</color>
-    <color name="colorButton">#FF4081</color>
-    <color name="colorSolid">#a59586</color>
-    <color name="colorStroke">#d3b761</color>
-    <color name="colorText">#d3b761</color>
-    <color name="colorText1">#f8f7f6</color>
+    <color name="colorBackgroundBanner">#ab584e3d</color>
+    <color name="colorStoreBackgroundBanner">#927851</color>
+    <color name="colerBackgound">#e36c685b</color>
+    <color name="colerBackgound2">#a59586</color>
+    <color name="colerStore2">#d3b761</color>
 </resources>

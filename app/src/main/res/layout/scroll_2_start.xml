@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:layout_marginHorizontal="15dp"
+    android:layout_marginTop="30dp"
+    android:background="@drawable/background2"
+    android:orientation="vertical"
+    android:paddingHorizontal="20dp"
+    android:paddingVertical="25dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:text="Start"
+        android:fontFamily="@font/vkunbi"
+        android:textColor="#e2ca82"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1: mi pham xin\n2: hang hoa cao cap"
+        android:textColor="#ffffff" />
+
+</LinearLayout>

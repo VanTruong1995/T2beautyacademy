@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ss.com.bannerslider.Slider xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    android:layout_marginHorizontal="20dp"
+    android:layout_marginTop="20dp"
+    app:slider_animateIndicators="true"
+    app:slider_indicatorSize="10dp"
+    app:slider_interval="0"
+    app:slider_loopSlides="true">
+
+</ss.com.bannerslider.Slider>

@@ -1,4 +1,4 @@
-package com.example.vantruong.t2beautyacademy;
+package com.example.vantruong.myapplication;
 
 import org.junit.Test;
 
