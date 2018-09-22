@@ -25,7 +25,7 @@
             android:layout_weight="1"
             android:background="@drawable/background"
             android:paddingHorizontal="3dp"
-            android:text="lashes"
+            android:text="hello"
             android:textColor="@color/colorStoreBackgroundBanner"
             android:textSize="10sp" />
 
